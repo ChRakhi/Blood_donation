@@ -17,7 +17,18 @@ A **Blood Bank Management System** built using **PHP and MySQL** to streamline b
 - **Frontend**:CSS  
 - **Backend**: PHP  
 - **Database**: MySQL  
-- **Server**: Apache (XAMPP recommended)  
+- **Server**: Apache (XAMPP recommended)
+   
+## 🖥️ Usage
+Admin Login: Manage donors, receivers, and blood stock
+Donors: Register and update donation records
+Receivers: Request blood based on availability
+
+## 🔥 Future Enhancements
+🏥 Hospital Integration: Connect with hospital databases
+📍 Location-based Search: Find nearby blood banks
+📅 Online Blood Reservation: Schedule blood donations
+📧 Automated Email Alerts: Notify donors and receivers
 
 ## 📥 Installation  
 
@@ -26,13 +37,3 @@ A **Blood Bank Management System** built using **PHP and MySQL** to streamline b
 git clone https://github.com/ChRakhi/Blood_donation.git
 cd Blood_donation
 
-🖥️ Usage
-Admin Login: Manage donors, receivers, and blood stock
-Donors: Register and update donation records
-Receivers: Request blood based on availability
-
-🔥 Future Enhancements
-🏥 Hospital Integration: Connect with hospital databases
-📍 Location-based Search: Find nearby blood banks
-📅 Online Blood Reservation: Schedule blood donations
-📧 Automated Email Alerts: Notify donors and receivers
