@@ -14,7 +14,7 @@ A **Blood Bank Management System** built using **PHP and MySQL** to streamline b
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Frontend**:CSS  
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Server**: Apache (XAMPP recommended)  
